@@ -27,7 +27,7 @@
 
 ### My GitHub Snapshot 📊
 
-https://komarev.com/ghpvc/?username=sajmulhossain&color=blue
+(https://komarev.com/ghpvc/?username=sajmulhossain&color=blue)
 ![Sajmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajmulhossain&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajmulhossain&layout=compact&theme=radical)
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=sajmulhossain&)
