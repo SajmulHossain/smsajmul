@@ -27,7 +27,7 @@
 
 ### My GitHub Snapshot 📊
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajmulhossain&label=Profile%20views&color=0e75b6&style=flat" alt="devnadimm" /> </p>
+![Sajmul's Github Profile Vies](https://komarev.com/ghpvc/?username=sajmulhossain&label=Profile%20views&color=0e75b6&style=flat) 
 ![Sajmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajmulhossain&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajmulhossain&layout=compact&theme=radical)
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=sajmulhossain&)
