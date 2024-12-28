@@ -27,9 +27,6 @@
 
 ### My GitHub Snapshot 📊
 
-- **Contributions**: 515 contributions in the last year.
-- **Stars Earned**: 19 total stars.
-- **Most Used Language**: JavaScript.
 
 ![Sajmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajmulhossain&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajmulhossain&layout=compact&theme=radical)
