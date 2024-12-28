@@ -31,8 +31,8 @@
 - **Stars Earned**: 19 total stars.
 - **Most Used Language**: JavaScript.
 
-![Sajmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajmul&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajmul&layout=compact&theme=radical)
+![Sajmul's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajmulhossain&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajmulhossain&layout=compact&theme=radical)
 
 ---
 
@@ -55,14 +55,3 @@
 ### Fun Fact 🌟
 
 Coding isn’t just my hobby—it’s my way of thinking, solving, and innovating. Let’s collaborate and create something extraordinary together!
-
----
-
-### How to Update the GitHub Stats 📈
-
-To keep your GitHub stats up to date:
-1. Use tools like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for live updates.
-2. Customize your stats by editing the README file with updated API links or content.
-3. Push changes to your GitHub profile repository.
-
-Need help? Feel free to reach out!
