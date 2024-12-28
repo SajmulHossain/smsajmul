@@ -55,3 +55,14 @@
 ### Fun Fact 🌟
 
 Coding isn’t just my hobby—it’s my way of thinking, solving, and innovating. Let’s collaborate and create something extraordinary together!
+
+---
+
+### How to Update the GitHub Stats 📈
+
+To keep your GitHub stats up to date:
+1. Use tools like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for live updates.
+2. Customize your stats by editing the README file with updated API links or content.
+3. Push changes to your GitHub profile repository.
+
+Need help? Feel free to reach out!
