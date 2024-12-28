@@ -27,9 +27,12 @@
 
 ## My GitHub Snapshot 📊
 
-![Sajmul's Github Profile Views](https://komarev.com/ghpvc/?username=sajmulhossain&label=Profile%20views&color=0e75b6&style=flat)
-![Sajmul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajmulhossain&show_icons=true&theme=radical)
+![Sajmul's Github Profile Views](https://komarev.com/ghpvc/?username=sajmulhossain&label=Profile%20views&color=0e75b6&style=flat) 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajmulhossain&layout=compact&theme=radical)
+
+![Sajmul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajmulhossain&show_icons=true&theme=radical)
+
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=sajmulhossain&)
 
 ---
